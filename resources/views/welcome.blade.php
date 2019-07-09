@@ -245,10 +245,10 @@ aquaculture à savoir</p>
 	<!-- blog -->
 	<section class="news py-5" id="blog">
 		<div class="container py-xl-5 py-lg-5">
-			<div class="text-center mb-sm-5 mb-4">
+			<div class="text-center mb-sm-5 mb-4"  >
 				<h3 class="tittle text-bl let mb-2 pt-sm-3 ">Notre Blog</h3>
 			</div>
-			<div class="row news-grids text-center">
+			<div class="row news-grids text-center" style="margin-top:20px;">
 				<div class="col-md-4 newsgrid">
 					<a href="single.html">
 						<img src="images/blog_1.jpg" alt="news image" class="img-fluid img-rotate ">

@@ -85,7 +85,7 @@
 	<!-- copyright -->
 	<div class="copy_right mb-5">
 		<p class="text-center text-bl let">© 2019 Pulagu. All rights reserved | Design by
-			<a href="http://w3layouts.com/">NgomB</a>
+			<a href="https://www.linkedin.com/in/mouhamed-lamine-ngom-66631b135/">NgomB</a>
 		</p>
 	</div>
 	<!-- //copyright -->
