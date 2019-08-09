@@ -1,0 +1,38 @@
+<a href="single.html" class="single-text text-bl font-weight-light my-3">Nemo enim ipsam voluptatem quia
+					voluptas
+					sit aspernatur aut odit aut fugit 2018</a>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sedc dnmo eiusmod tempor incididunt ut labore et
+					dolore magna
+					aliqua uta enim ad minim ven iam quis nostrud exercitation ullamco labor nisi ut aliquip exea commodo
+					consequat
+					duis
+					aute irudre dolor in elit sed uta labore dolore reprehender</p>
+				<p class="my-3">Ullamco labor nisi ut aliquip exea commodo consequat duis aute irudre dolor in elit sed uta
+					labore dolore reprehender</p>
+				<p>Jabore et dolore magna aliqua uta enim ad minim ven iam quis nostrud exercitation ullamco labor nisi utaliquip
+					exea commodo consequat duis aute irudre dolor in elit sed uta labore dolore
+					reprehender.
+				</p>
+				<a href="single.html" class="text-bl blog-grid-title mt-4 mb-3">Two Column Text Sample</a>
+				<div class="row">
+					<div class="col-md-6">
+						<p>Morbi eget dui elit in lectus eros, convallis vel dolor vitae, semper sodales risus. Donec
+							convallis maximus neque
+							vel cursus.</p>
+					</div>
+					<div class="col-md-6">
+						<p>In lectus eros, convallis vel dolor vitae, semper sodales risus. Donec
+							convallis maximus neque
+							vel cursus.</p>
+					</div>
+				</div>
+				<a href="single.html" class="single-text text-bl font-weight-light mt-4">Nemo enim ipsam voluptatem quia
+					voluptas sit aspernatur aut odit aut fugit 2019</a>
+				<p class="my-3">Ullamco labor nisi ut aliquip exea commodo consequat duis aute irudre dolor in elit sed uta
+					labore dolore reprehender</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sedc dnmo eiusmod tempor incididunt ut labore et
+					dolore magna
+					aliqua uta enim ad minim ven iam quis nostrud exercitation ullamco labor nisi ut aliquip exea commodo
+					consequat
+					duis
+					aute irudre dolor in elit sed uta labore dolore reprehender</p>

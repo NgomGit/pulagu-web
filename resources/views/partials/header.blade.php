@@ -3,7 +3,7 @@
 <html lang="zxx">
 
 <head>
-	<title>Wander Travel Category Bootstrap Responsive Website Template | Home :: W3layouts</title>
+	<title>PULAGU</title>
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8" />
@@ -14,7 +14,7 @@
 		}, false);
 
 		function hideURLbar() {
-			window.scrollTo(0, 1);
+			// window.scrollTo(0, 1);
 		}
 	</script>
 	<!--// Meta tag Keywords -->
@@ -76,7 +76,8 @@
 			<!-- //nav -->
 			<div class="banner-text text-right">
 				<div class="banner-bot">
-					<h1><a href="index.html" class="logo text-wh">	<img src="images/logo_transparent.png" alt="news image" class="img-logo-big"></a></h1>
+					<h1><a href="index.html" class="logo text-wh">
+						<img src="images/logo_transparent.png" alt="news image" class="img-logo-big"></a></h1>
 					<p class="text-bl text-li mt-3 border-bottom pb-4">
 						une expertise tout près de chez vous,<br/>
 						l’expérience fait la différence,<br/>

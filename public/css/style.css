@@ -425,7 +425,7 @@ li>a:only-child:after {
 
 /* banner */
 .banner_w3lspvt {
-    background: url(../images/infrast_construct.JPG) no-repeat center;
+    background: url(../images/blog_3_rotate.jpg) no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -522,7 +522,7 @@ h3.tittle {
 
 /* middle section */
 .w3ls-middle {
-    background: url(../images/blog_3_rotate.jpg) no-repeat center;
+    background: url(../images/infrast_construct.JPG) no-repeat center;
     background-size: cover; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
